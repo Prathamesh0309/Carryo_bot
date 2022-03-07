@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509246599007",
+    "project_id": "carryo-bot-6f391",
+    "storage_bucket": "carryo-bot-6f391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509246599007:android:143b0bd350afd85dec10ea",
+        "android_client_info": {
+          "package_name": "com.bot_call_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509246599007-p3hfhsai2fbmsf0rbik36c412c0h3qg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99CZJRMhSEkqM9Ty3vFKnJnx0hQMjhsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509246599007-p3hfhsai2fbmsf0rbik36c412c0h3qg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
